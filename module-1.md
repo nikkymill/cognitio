@@ -11,7 +11,7 @@ You should be able to describe how someone is diagnosed with COVID-19 and descri
 Now let's talk about the virus that causes COVID-19.
 So the virus that causes COVID-19 is a coronavirus. Coronaviruses are a large, diverse group of viruses, and you need powerful microscopes to be able to See them. Coronavirus means crown. And as you can See on this slide, the virus looks like it has a crown around it. That's how coronaviruses got their name. There are many different types of coronaviruses, and they infect a wide range of mammals and birds. And some even cause mild respiratory disease in people every year, so coronaviruses are not new. But the virus that causes COVID-19 is, so let's talk a little bit about where that came from.
 
-![What is a coronovirus](https://drive.google.com/file/d/1-xxwiGUDDL_rb_di2IVwgGH-rYQ6TBpT/view?usp=sharing)
+![2020-06-07_19-41-06](https://user-images.githubusercontent.com/45191356/84555829-d16ed500-acd3-11ea-936b-8ba2f58ac167.png)
  
 The virus that causes COVID-19, we call SARS coronavirus two. This virus originated in bats, so that means that bats carry this virus and are infected with this virus all the time. But this virus developed a special trick. It developed the ability to jump between species and infect people. And then it developed another very special trick to be able to be transmitted between people, and that's how it came to cause the pandemic that we're experiencing now. 
 So this kind of trick that some coronavirus viruses have also isn't new, so this is the third coronavirus that we know of since 2002 that has developed these same tricks. All of these coronaviruses also originated in bats now infect people and can be spread from person to person. 
