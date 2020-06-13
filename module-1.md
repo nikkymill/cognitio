@@ -6,7 +6,7 @@ We want you to be able to identify the clinical signs and symptoms of COVID-19 a
 
 You should be able to describe how someone is diagnosed with COVID-19 and describe when they're infectious. 
 
->>>>>>>>>> And importantly, you should also be able to explain how this virus is transmitted from one person to another, and how frequently that happens.
+> *And importantly, you should also be able to explain how this virus is transmitted from one person to another, and how frequently that happens.*
 
 Now let's talk about the virus that causes COVID-19.
 So the virus that causes COVID-19 is a coronavirus. Coronaviruses are a large, diverse group of viruses, and you need powerful microscopes to be able to See them. Coronavirus means crown. And as you can See on this slide, the virus looks like it has a crown around it. That's how coronaviruses got their name. There are many different types of coronaviruses, and they infect a wide range of mammals and birds. And some even cause mild respiratory disease in people every year, so coronaviruses are not new. But the virus that causes COVID-19 is, so let's talk a little bit about where that came from.
