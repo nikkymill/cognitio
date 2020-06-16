@@ -48,7 +48,8 @@ SPEAKER 3: October 25. \
 SPEAKER 2: OK, and our records list here that you're living in Hillside on Gail Drive. Could you please confirm the full address? \
 SPEAKER 3: Yeah, that's 510 Gail Drive. \
 SPEAKER 2: Perfect. Thanks. All right, well, I'm calling today about your COVID-19 test. Has your physician already called you to talk about the result? \
-SPEAKER 3: Yes. I was positive. I have coronavirus. They said you might be calling. SPEAKER 2: Yeah, well, we're getting in touch with everyone who has coronavirus. We just want to check in on you, review what your doctor said, and ask a few follow-up questions. We're just hoping to make sure that you and our community stay safe. \
+SPEAKER 3: Yes. I was positive. I have coronavirus. They said you might be calling. \
+SPEAKER 2: Yeah, well, we're getting in touch with everyone who has coronavirus. We just want to check in on you, review what your doctor said, and ask a few follow-up questions. We're just hoping to make sure that you and our community stay safe. \
 SPEAKER 3: I understand. \
 SPEAKER 2: OK, so this should take about 10 to 15 minutes. And if at any point you need to take a break for that cough, you just let me know. Is that OK? SPEAKER 3: Sounds good. It's enough time before my show. \
 SPEAKER 2: Right. Don't want you to miss that. And if there's anything that you don't understand, you have questions about, or you need me to repeat, please just let me know. We want to make sure that everything is clear. Got it? \
@@ -99,7 +100,8 @@ SPEAKER 3: Oh, no! I went to choir practice on Saturday. \
 SPEAKER 2: Got it. OK. So-- \
 SPEAKER 3: Does that mean that-- oh, no. Geez, I can't believe that. \
 SPEAKER 2: Larry, Larry, I hear you worrying over there. \
-SPEAKER 3: Yeah, I just don't want anyone else to get this. It's not fun, you know? SPEAKER 2: Yeah. Yeah, I hear you.\
+SPEAKER 3: Yeah, I just don't want anyone else to get this. It's not fun, you know? \ 
+SPEAKER 2: Yeah. Yeah, I hear you.\
 SPEAKER 3: Well, I guess it's lucky it was just me and a few other folks there this past Saturday. \
 SPEAKER 2: Yeah, you're worried about your friends. And it's good to hear that there was only a couple folks there. So let's take it step by step and talk through everyone that was there. \
 SPEAKER 3: Are you going to call them? \
@@ -276,7 +278,7 @@ SPEAKER 5: OK, thank you. \
 SPEAKER 4: Great. Thanks, Annette. It's been really nice chatting with you today, and I hope that you stay well. \
 SPEAKER 5: Thank you. You too. Bye. \
 SPEAKER 4: Take care. \
-SPEAKER 5: Thanks. Bye.\
+SPEAKER 5: Thanks. Bye.
 
 ## Video: Summary
 SPEAKER: Let's summarize now what we learned about the steps in case investigation and contact tracing. There are six basic steps. As we've discussed, you have to introduce yourself to the case, inquire about their infectious period, identify the contacts they've had during that infectious period, and give them isolation instructions. This will include helping them identify challenges to isolation and getting them the resources they need to isolate from others. Next, you'll move on to initiating the contact tracing, so finding their contacts, telling them that they were exposed to someone with COVID-19, checking in on their symptoms, issuing quarantine instructions, and identifying challenges and providing resources to help them quarantine, just like you did with cases in isolation. Finally, you're going to implement regular check-ins with cases and contacts to inquire about their health, see if they need any medical assistance or any other social services as they complete their isolation and quarantine. Now that you've finished this module, you should understand well all the steps you're going to take to investigate cases and contacts and what some basic scenarios of that look like.
