@@ -51,7 +51,8 @@ SPEAKER 2: Perfect. Thanks. All right, well, I'm calling today about your COVID-
 SPEAKER 3: Yes. I was positive. I have coronavirus. They said you might be calling. \
 SPEAKER 2: Yeah, well, we're getting in touch with everyone who has coronavirus. We just want to check in on you, review what your doctor said, and ask a few follow-up questions. We're just hoping to make sure that you and our community stay safe. \
 SPEAKER 3: I understand. \
-SPEAKER 2: OK, so this should take about 10 to 15 minutes. And if at any point you need to take a break for that cough, you just let me know. Is that OK? SPEAKER 3: Sounds good. It's enough time before my show. \
+SPEAKER 2: OK, so this should take about 10 to 15 minutes. And if at any point you need to take a break for that cough, you just let me know. Is that OK? \
+SPEAKER 3: Sounds good. It's enough time before my show. \
 SPEAKER 2: Right. Don't want you to miss that. And if there's anything that you don't understand, you have questions about, or you need me to repeat, please just let me know. We want to make sure that everything is clear. Got it? \
 SPEAKER 3: OK. \
 SPEAKER 2: OK. Oh, and also I should mention that everything we talked to today-- talk about today is going to be between you and me, so we won't share your personal details outside the Health Department. \
@@ -66,7 +67,8 @@ SPEAKER 2: Yeah, you're really not feeling good. \
 SPEAKER 3: Yeah, and I told my cousin that I wasn't feeling well that day, she said, I ought to call my doctor right away. \
 SPEAKER 2: OK, so all of this was happening this past Monday, the 20th, and now it's Wednesday. Yeah, OK, so you're really right there in the thick of it right now. Does it seem like your symptoms are getting worse? \
 SPEAKER 3: No, pretty much the same, honestly. My fever has gone down a bit, but I had a bout of diarrhea yesterday. I'm just real tired. \
-SPEAKER 2: Yeah, I can only imagine. Have you been taking your temperature? SPEAKER 3: Yeah, the doc told me to do that. So... \
+SPEAKER 2: Yeah, I can only imagine. Have you been taking your temperature? \
+SPEAKER 3: Yeah, the doc told me to do that. So... \
 SPEAKER 2: OK, well, do you know what your highest temperature was, like on your worst day? \
 SPEAKER 3: Yeah, it got up to 102.3. \
 SPEAKER 2: Yikes. That is hot. And what's your temperature today? \
@@ -87,8 +89,8 @@ SPEAKER 2: OK, and with that cough, has your throat been sore at all? \
 SPEAKER 3: It was pretty sore on Monday, but it's better now. When I cough, it kind of hurts. \
 SPEAKER 2: Yeah, I can imagine. I'm sorry to hear that. Could you tell me a little bit more about that cough? \
 SPEAKER 3: [COUGHS] Well, if I do anything, I start to cough. But to be honest, I don't really want to do much. If I'm just lying in bed or on the couch, my cough isn't too bad. \
-SPEAKER 2: So when you get off the couch and you go to eat or do whatever you need to do in the house, do you feel short of breath then? 
-SPEAKER 3: I feel more tired than short of breath. I can fix my food and talk on the phone. But I sure couldn't run a marathon.\ 
+SPEAKER 2: So when you get off the couch and you go to eat or do whatever you need to do in the house, do you feel short of breath then?\ 
+SPEAKER 3: I feel more tired than short of breath. I can fix my food and talk on the phone. But I sure couldn't run a marathon. \ 
 SPEAKER 2: All right. So you're not feeling great, but definitely better than Monday it sounds like. So over the next week or so, if you could just keep track of how you're feeling and let us know if you do start to feel worse or if things just don't Seem to be getting better at all. \
 SPEAKER 3: Sounds good. Will do. \
 SPEAKER 2: OK, and if you ever do start feeling very short of breath, we recommend that you call your doctor, OK? \
@@ -173,7 +175,7 @@ SPEAKER 3: Honestly, I asked my doctor all about it. So I think I'm good. \
 SPEAKER 2: OK. Well, either me or one of my colleagues are going to be calling you later to check up on that fever. And until then, please, please, please, stay isolated like we talked about. And I hope you feel better real soon. \
 SPEAKER 3: Thanks a lot. \
 SPEAKER 2: See you, Larry. \
-SPEAKER 3: Bye, take care. \
+SPEAKER 3: Bye, take care. 
 
 SPEAKER 1: Now you're going to listen to a very basic call with a contact. And again, this is a very simple scenario where the contact doesn't have any symptoms and where they're happy to quarantine themselves and have the resources to do so. \
 
