@@ -1,4 +1,4 @@
-#Module 3
+# Module 3
 ## Video: The Basic Steps
 
 EMILY S. GURLEY: Hello. My name is Emily Gurley, and I'm an infectious disease epidemiologist at the Johns Hopkins Bloomberg School of Public Health. I want to talk to you now about the steps to investigate cases and trace their contacts. By the end of this lecture, you should be able to identify all of the basic steps to investigate cases and trace their contacts. You should be able to provide examples of the kinds of questions that you might ask of cases and contacts during each step. And you should be able to describe the kinds of social support that cases and contacts may need to carry out isolation and quarantine. After all, asking people to isolate and quarantine is difficult, and they may need some additional support. And finally, we're going to present an example of a simple case investigation and contact tracing call so that you can hear what this sounds like in practice. Next, let's go through the basic steps-- naming them, understanding what they mean, and how they come in the sequence. On this slide, you can see the six steps of case investigation and contact tracing. 
@@ -88,9 +88,12 @@ SPEAKER 3: No. \
 SPEAKER 2: OK, and with that cough, has your throat been sore at all? \
 SPEAKER 3: It was pretty sore on Monday, but it's better now. When I cough, it kind of hurts. \
 SPEAKER 2: Yeah, I can imagine. I'm sorry to hear that. Could you tell me a little bit more about that cough? \
-SPEAKER 3: [COUGHS] Well, if I do anything, I start to cough. But to be honest, I don't really want to do much. If I'm just lying in bed or on the couch, my cough isn't too bad. \
-SPEAKER 2: So when you get off the couch and you go to eat or do whatever you need to do in the house, do you feel short of breath then?\ 
-SPEAKER 3: I feel more tired than short of breath. I can fix my food and talk on the phone. But I sure couldn't run a marathon. \ 
+SPEAKER 3: [COUGHS] Well, if I do anything, I start to cough. But to be honest, I don't really want to do much. If I'm just lying in bed or on the couch, my cough isn't too bad.  \
+
+SPEAKER 2: So when you get off the couch and you go to eat or do whatever you need to do in the house, do you feel short of breath then? \
+
+SPEAKER 3: I feel more tired than short of breath. I can fix my food and talk on the phone. But I sure couldn't run a marathon.  \ 
+
 SPEAKER 2: All right. So you're not feeling great, but definitely better than Monday it sounds like. So over the next week or so, if you could just keep track of how you're feeling and let us know if you do start to feel worse or if things just don't Seem to be getting better at all. \
 SPEAKER 3: Sounds good. Will do. \
 SPEAKER 2: OK, and if you ever do start feeling very short of breath, we recommend that you call your doctor, OK? \
