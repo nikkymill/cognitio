@@ -1,1 +1,1 @@
-This is the Foundations of Data Science Course for those who have intermitten internet access and need to work offline or with low bandwidth. Access the course [here](https://docs.microsoft.com/en-us/learn/paths/foundations-data-science/?source=learn)
+This is the Foundations of Data Science Course for those who have intermitten internet access and need to work offline or with low bandwidth. Access the course [here](https://code4startup.com/projects/hero-learn-ruby-on-rails-and-wistia-apis-by-cloning-code4startup-version-newbies)
