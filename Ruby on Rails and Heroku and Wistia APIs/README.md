@@ -1,0 +1,1 @@
+This is the Learn Ruby on Rails, Heroku and Wistia APIs Course for those who have intermitten internet access and need to work offline or with low bandwidth. Access the course [here](https://docs.microsoft.com/en-us/learn/paths/foundations-data-science/?source=learn)
